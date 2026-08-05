@@ -1,0 +1,70 @@
+{
+    "saxaphones": [
+        {
+            "name": "Anna",
+            "instruments": "Alto Sax",
+            "bio": "",
+            "picture": ""
+        },
+        {
+            "name": "Michelle",
+            "instruments": "Alto Sax",
+            "bio": "",
+            "picture": ""
+        }
+    ],
+    "trumpets": [
+        {
+            "name": "Hope",
+            "instruments": "Trumpet",
+            "bio": "",
+            "picture": ""
+        },
+        {
+            "name": "Samantha",
+            "instruments": "Trumpet",
+            "bio": "",
+            "picture": ""
+        }
+    ],
+    "trombones": [
+        {
+            "name": "Evan",
+            "instruments": "Trombone",
+            "bio": "",
+            "picture": ""
+        },
+        {
+            "name": "Ayden",
+            "instruments": "Trombone",
+            "bio": "",
+            "picture": ""
+        }
+    ],
+    "rhythm": [
+        {
+            "name": "Max",
+            "instruments": "Guitar",
+            "bio": "",
+            "picture": ""
+        },
+        {
+            "name": "Turkey",
+            "instruments": "Keys",
+            "bio": "",
+            "picture": ""
+        },
+        {
+            "name": "Mason",
+            "instruments": "Bass",
+            "bio": "",
+            "picture": ""
+        },
+        {
+            "name": "Cooper",
+            "instruments": "Drums",
+            "bio": "",
+            "picture": ""
+        }
+    ]
+}
