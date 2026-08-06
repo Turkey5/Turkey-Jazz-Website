@@ -33,3 +33,27 @@ nav li a:hover {
 .socials img {
   width: 32px;
 }
+
+
+body {
+    vertical-align: top;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f0f2f5;
+}
+
+h1 {
+    color: #333;
+    margin-top: 0;
+}
+
+h2 {
+    color: #111;
+    text-align: left;
+}
+
+h3 {
+    color:#111;
+    text-align: left;
+}
