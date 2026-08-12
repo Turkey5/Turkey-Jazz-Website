@@ -1,70 +1,80 @@
 {
-    "saxaphones": [
+    "Saxaphones": [
         {
             "name": "Anna",
             "instruments": "Alto Sax",
             "bio": "",
-            "picture": ""
+            "picture": "",
+            "snap": "right"
         },
         {
             "name": "Michelle",
             "instruments": "Alto Sax",
             "bio": "",
-            "picture": ""
+            "picture": "",
+            "snap": "left"
         }
     ],
-    "trumpets": [
+    "Trumpets": [
         {
             "name": "Hope",
             "instruments": "Trumpet",
             "bio": "",
-            "picture": ""
+            "picture": "",
+            "snap": "right"
         },
         {
             "name": "Samantha",
             "instruments": "Trumpet",
             "bio": "",
-            "picture": ""
+            "picture": "",
+            "snap": "left"
         }
     ],
-    "trombones": [
+    "Trombones": [
         {
             "name": "Evan",
             "instruments": "Trombone",
             "bio": "",
-            "picture": ""
+            "picture": "",
+            "snap": "right"
         },
         {
             "name": "Ayden",
             "instruments": "Trombone",
             "bio": "",
-            "picture": ""
+            "picture": "",
+            "snap": "left"
         }
     ],
-    "rhythm": [
+    "Rhythm Section": [
         {
             "name": "Max",
             "instruments": "Guitar",
             "bio": "",
-            "picture": ""
+            "picture": "",
+            "snap": "right"
         },
         {
             "name": "Turkey",
             "instruments": "Keys",
             "bio": "",
-            "picture": ""
+            "picture": "",
+            "snap": "left"
         },
         {
             "name": "Mason",
             "instruments": "Bass",
             "bio": "",
-            "picture": ""
+            "picture": "",
+            "snap": "right"
         },
         {
             "name": "Cooper",
             "instruments": "Drums",
             "bio": "",
-            "picture": ""
+            "picture": "",
+            "snap": "left"
         }
     ]
 }
