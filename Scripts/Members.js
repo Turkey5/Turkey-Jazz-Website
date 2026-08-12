@@ -21,7 +21,7 @@ fetch('Data/members.json')
                     if (key.toLowerCase() === 'picture') {
                         const img = document.createElement('img');
                         img.src = value;
-                        img.alt = 'Member Picture';
+                        img.alt = 'there is supposed to be a picture here';
                         img.style.maxWidth = '200px';
                         itemBox.appendChild(img);
                     } else if (key.toLowerCase() === 'name') {
