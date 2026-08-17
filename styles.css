@@ -34,12 +34,6 @@ nav li a:hover {
   width: 32px;
 }
 
-.h1 {
-    display: flex;
-    flex-direction: column;
-    justify-content:flex-start;
-    height: 0px;
-}
 
 body {
     vertical-align: top;
@@ -61,4 +55,24 @@ h2 {
 
 h3 {
     color:#111;
+    text-align: left;
+}
+
+.snap-left {
+  float: left;
+  width: 45%;
+  padding: 10px;
+  margin: 5px;
+}
+
+.snap-right {
+  float: right;
+  width: 45%;
+  padding: 10px;
+  margin: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
 }
